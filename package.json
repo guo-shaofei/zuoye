@@ -1,0 +1,19 @@
+{
+  "name": "g_sf",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "吃饭",
+    "睡觉",
+    "点豆豆"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
